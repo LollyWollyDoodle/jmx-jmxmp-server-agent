@@ -4,7 +4,7 @@
 
   <groupId>com.lollywollydoodle</groupId>
   <artifactId>jmx-jmxmp-server-agent</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>JMXMP JMX Server Agent</name>
